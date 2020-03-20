@@ -11,3 +11,6 @@ Calculate Isotherm
 
 ## SorptionFixedLoading.pl and SorptionFixedPressure.pl
 Calculate structure with low energy
+
+## Center.pl 
+Dynamics information is stored in '*.trj' file, we can get trajectory information of every center of every molecule by this script.
