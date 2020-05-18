@@ -18,5 +18,8 @@ Dynamics information is stored in '*.trj' file, we can get trajectory informatio
 ## Energy.pl
 Calculate total energy of periodic structure,and input files are including *.trj and *.xtd file
 
-## SaveUnFix.pl
+## ExportUnFix.pl
 Import '*.xtd' file, unfix Cartesian position of X, Y and Z and then Export as another xsd file
+
+## CreateMoleAndGeomOpt.pl
+Create a new molecule, Ethanol, and then optimize structure of Ethanol using COMPASS Forcefield.
