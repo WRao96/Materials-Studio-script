@@ -1,0 +1,1 @@
+"D:\program files (x86)\VMD\tachyon_WIN32.exe" plot3.data -aasamples 100 -mediumshade -trans_vmd -res 1024 742 -format BMP -o Furfuryl_3.jpg
